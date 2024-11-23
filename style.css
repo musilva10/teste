@@ -18,13 +18,13 @@ body {
     
     /* Cores para cada seção */
     #section1 {
-    background-color: #e3f2fd; /* Azul claro */
-    color: #0d47a1; /* Azul escuro */
+    background-color: #00FF9C; /* verde flourescente */
+    color: #000000; /* preto */
     }
     
     #section2 {
-    background-color: #fce4ec; /* Rosa claro */
-    color: #880e4f; /* Rosa escuro */
+    background-color: #B6FFA1; /* verde claro */
+    color: #ffffff; /* branco */
     }
     
     #section3 {
